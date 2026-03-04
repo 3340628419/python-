@@ -1,0 +1,7 @@
+#布尔值经常用在条件判断中，比如：
+age = input("请输入数字")
+age = int(age)
+if age >= 18:
+   print('成年')
+else:
+   print('未成年')
